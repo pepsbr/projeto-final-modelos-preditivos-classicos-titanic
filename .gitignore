@@ -7,14 +7,14 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Secrets and credentials
+# Segredos e credenciais
 .env
 .env.*
 !.env.example
 kaggle.json
 .kaggle/
 
-# Local datasets and artifacts
+# Dados e arquivos locais
 data/
 datasets/
 *.csv
